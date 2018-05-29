@@ -1,7 +1,8 @@
 package ${serviceDir}.dao.impl;
 
 import org.springframework.stereotype.Repository;
-import com.yame.iov.dao.${className}DAO;
+import ${serviceDir}.dao.${className}DAO;
+import ${serviceDir}.dao.impl.BaseDao;
 /**
 * @Author: LiGuo
 * @Date: ${.now}
